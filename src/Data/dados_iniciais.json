@@ -1,0 +1,203 @@
+{
+  "categorias": [
+    {
+      "titulo": "Dublagem de gatos",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Cat doesn't finish Vegetables",       
+          "url": "https://www.youtube.com/watch?v=736fiBMtADg"
+        },
+        {
+          "titulo": "DUBLAGEM - Criança que perturba o juízo da mãe (meme de animais)",       
+          "url": "https://www.youtube.com/watch?v=gcQC1tDHcGU"
+        },
+        {
+          "titulo": "DUBLAGEM - Irmão mais novo e mais velho( meme de animais engraçados)",
+          "url": "https://www.youtube.com/watch?v=59WYyHOFX1s"
+        },
+        {
+          "titulo": "DUBLAGEM - Gente que só vive no quarto (meme de animais engraçados)",
+          "url": "https://www.youtube.com/watch?v=zlmcoMnp_Ww"
+        },
+        {
+          "titulo": "DUBLAGEM - Foi fazer coquete e se surpreendeu (meme de animais engraçados)",
+          "url": "https://www.youtube.com/watch?v=HVFwRwFFiU8"
+        },
+        {
+          "titulo": "DUBLAGEM - Quando bagunço algo em casa (meme de animais)",
+          "url": "https://www.youtube.com/watch?v=3548meVZyZ8"
+        },
+        {
+          "titulo": "DUBLAGEM - Gatos fazendo compras (meme de animais)",
+          "url": "https://www.youtube.com/watch?v=-fHesYQTd5w"
+        },
+        {
+          "titulo": "DUBLAGEM - Gente que tem medo de injeção (meme de animais falantes)",
+          "url": "https://www.youtube.com/watch?v=-jrFIvntxyw"
+        },
+        {
+          "titulo": "DUBLAGEM - A criança mais perigosa do mundo (meme de animais engraçados)",
+          "url": "https://www.youtube.com/watch?v=V_d-Gl9-5Qg"
+        }        
+      ]
+    },
+    {
+      "titulo": "Gatos fazendo gatices (GIFs)", 
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Whatever",
+          "url": "https://tenor.com/view/whatever-cat-gato-tantofaz-lixando-gif-5687427",
+          "image": "https://media1.tenor.com/images/4be9b01498c57513dedbc82787394f4d/tenor.gif?itemid=5687427 "
+        },
+        {
+          "titulo": "Puss In Boots Cute",
+          "url": "https://tenor.com/view/gato-con-botas-tierno-gif-7799678",
+          "image": "https://media1.tenor.com/images/fab450d21edf145b0f0c280db338d2a6/tenor.gif?itemid=7799678"
+        },
+        {
+          "titulo": "Wow",
+          "url": "https://tenor.com/view/cats-animals-reaction-wow-surprised-gif-4076137",
+          "image": "https://media1.tenor.com/images/cc3fa0f0103b11139fa5478d6aac588e/tenor.gif?itemid=4076137"
+        },
+        {
+          "titulo": "Cat Sneaking",
+          "url": "https://tenor.com/view/cat-sneaking-mountain-gif-5074481",
+          "image": "https://media1.tenor.com/images/fed163888ece0e7e203085ad3ab551b8/tenor.gif?itemid=5074481"
+        },
+        {
+          "titulo": "Ready Cat",
+          "url": "https://tenor.com/view/ready-cat-wiggle-gif-4625114",
+          "image": "https://media1.tenor.com/images/418c37507106f319bf5a1a3d1e8e1922/tenor.gif?itemid=4625114"
+        },
+        {
+          "titulo": "Cats Dance",
+          "url": "https://tenor.com/view/cats-gif-9774721",
+          "image": "https://media1.tenor.com/images/9e749336bd24c570f28322d2bc33f86d/tenor.gif?itemid=9774721"
+        }
+      ]
+    },
+    {
+      "titulo": "Filhotes fofos",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Petrukio, o gato mais fofo e perigoso da internet",
+          "url": "https://www.youtube.com/watch?v=AEG0ldxpZbM"
+        },
+        {
+          "titulo": "Gatinhos fofos brincando - Gatil Hauser",
+          "url": "https://www.youtube.com/watch?v=8y7vMEuJca0"
+        },
+        {
+          "titulo": "The Fake Girlfriend",
+          "url": "https://www.youtube.com/watch?v=oh2iysCB560"
+        },
+        {
+          "titulo": "Cão x gato bebe brincando",
+          "url": "https://www.youtube.com/watch?v=h3B16s28olY"
+        }, 
+        {
+          "titulo": "Homeless Cats",
+          "url": "https://www.youtube.com/watch?v=H-WEhug-up8"
+        }
+      ]
+    },
+    {
+      "titulo": "Videos para gatos brincarem",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Jogos para gatos. A barata. Vídeo para gatos",
+          "url": "https://www.youtube.com/watch?v=6iR9hdkPrTM"
+        },
+        {
+          "titulo": "Música para Relaxar o seu Gato - o seu gato dorme | Melhora a ansiedade de Separação",
+          "url": "https://www.youtube.com/watch?v=8Fdkgo5EOXA"
+        },
+        {
+          "titulo": "Jogo para gatos. Pegue o fio!",
+          "url": "https://www.youtube.com/watch?v=d5I-Z09PDiQ"
+        },
+        {
+          "titulo": "Jogos para gatos. Pegue o rato! ",
+          "url": "https://www.youtube.com/watch?v=lfKhkF3ksIM"
+        }
+      ]
+    },
+    {
+      "titulo": "Canais de YouTube sobre gatos",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Isa Gateirar",
+          "url": "https://www.youtube.com/channel/UChpADIbgTtI9OMUADiE2wnQ",
+          "image": "https://yt3.ggpht.com/a/AATXAJwMHCX2u2ImZwd4fAR-WW1AvcnrBXFQq20RzwQMow=s100-c-k-c0xffffffff-no-rj-mo"
+        },
+        {
+          "titulo": "Meninas do Alphacat",
+          "url": "https://www.youtube.com/channel/UCkSVgKWV1ZfPDQwVWX21ZvA",
+          "image": "https://yt3.ggpht.com/a/AATXAJyv-5fQ70V67Hp_UzxHC0pOY17LDEHv6jB5QDOe=s100-c-k-c0xffffffff-no-rj-mo"
+        },
+        {
+          "titulo": "Gatil Hauser",
+          "url": "https://www.youtube.com/user/GatilHauser",
+          "image": "https://yt3.ggpht.com/a/AATXAJzz91QnME0B4TLTxoy0Vr9l2saCM0kZ7nGIXNt29Q=s100-c-k-c0xffffffff-no-rj-mo"
+        },
+        {
+          "titulo": "Coisas de Gato",
+          "url": "https://www.youtube.com/channel/UCo6YeoyfluASV11EVpV98Tw",
+          "image": "https://yt3.ggpht.com/a/AATXAJxsdjTtnmDx2RFftgcgjCwNt98SfwAQOj6uJPIsLQ=s100-c-k-c0xffffffff-no-rj-mo"
+        }
+      ]
+    },
+    {
+      "titulo": "Instagram de gatos",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "@canseidesergato",
+          "url": "https://www.instagram.com/canseidesergato/"
+        },
+        {
+          "titulo": "@gatoleonoficial",
+          "url": "https://www.instagram.com/gatoleonoficial/"
+        },
+        {
+          "titulo": "@alecrim.e.jasmim",
+          "url": "https://www.instagram.com/alecrim.e.jasmim/"
+        },
+        {
+          "titulo": "@lurdiana.gatos",
+          "url": "https://www.instagram.com/lurdiana.gatos/"
+        },
+        {
+          "titulo": "@minervaesnape",
+          "url": "https://www.instagram.com/minervaesnape/"
+        }
+      ]
+    }
+  ]
+}
