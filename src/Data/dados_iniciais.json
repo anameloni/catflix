@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Dublagem de gatos",
+      "titulo": "Dublagem de Gatos",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "Cat doesn't finish Vegetables",       
-          "url": "https://www.youtube.com/watch?v=736fiBMtADg"
+          "titulo": "Gatos fazendo gatices",       
+          "url": "https://www.youtube.com/watch?v=-CjARM1yaoI"
         },
         {
           "titulo": "DUBLAGEM - Criança que perturba o juízo da mãe (meme de animais)",       
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "titulo": "Gatos fazendo gatices (GIFs)", 
+      "titulo": "GIFs de gatos", 
       "cor": "#6b5be2",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "titulo": "Instagram de gatos",
+      "titulo": "Jogos de gatos",
       "cor": "red",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
