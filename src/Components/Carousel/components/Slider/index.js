@@ -2,7 +2,6 @@
 import React from 'react';
 import SlickSlider from 'react-slick';
 import styled from 'styled-components';
-import ArrowPrev from '../../../../Assets/Img/ArrowPrev.png'
 
 
 const Container = styled.ul`
